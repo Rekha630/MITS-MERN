@@ -1,5 +1,5 @@
 import React,{useCallback, useState} from 'react'
-import Header from '../Component/Header'
+import Header from '../Components/Header'
 
 const UseCallback = () => {
     const[count,setCount]=useState(0);
