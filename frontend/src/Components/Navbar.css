@@ -1,4 +1,4 @@
-In Navbar.css
+
 .navbar{
     display:flex;
     flex-direction: row;
@@ -6,8 +6,8 @@ In Navbar.css
     justify-content: space-around;
 }
 ul{
-    list-style: none;
-    background-color: chocolate;
+    list-style-type: none;
+    background-color: rgb(30, 63, 210);
     padding:10px;
 }
 li{
